@@ -1,0 +1,35 @@
+/* this is universal selector */
+* {
+  margin: 0px;
+
+  padding: 0px;
+}
+
+/* this is a type selector */
+
+h1 {
+  color: green;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: darkblue;
+}
+
+/* this is class selector */
+.highlight {
+  color: red;
+  font-weight: bold;
+}
+.nigeria {
+  color: yellow;
+}
+
+/* this is id selector */
+#main-heading {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* this is a group-selector */
+h1, h2, p {
+font-weight: 900;
+}
