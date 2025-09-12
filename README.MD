@@ -18,7 +18,7 @@ absolute path to this
 
 ![alt text](image.png)
 
-##  project 2
+## 📂 Project Structure
 task: create the file send on your class. the page should include:
   A page of blog 
   A what am learning it html
@@ -26,6 +26,7 @@ task: create the file send on your class. the page should include:
   Focus: css design,linking css,list
 
   absolute path to this 
-  >.my-blog.html
-  >.my-blog.css
   
+  >.\my-blog.html
+  >.\my-blog.css
+  ![alt text](P2.png)
