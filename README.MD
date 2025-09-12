@@ -1,19 +1,3 @@
-# HTML Practice Project 🌐
-
-This repository contains simple projects and exercises to practice **HTML (HyperText Markup Language)**.
-
-It’s a great starting point for beginners learning how to build web pages.
-
----
-
-## 📖 What is HTML?
-
-HTML is the standard language used to create and structure web pages.
-
-With HTML, you can add text, images, links, tables, forms, and more to a website.
-
----
-
 ## 📂 Project Structure
 
 Here’s what you’ll find in this repo:
@@ -33,3 +17,15 @@ absolute path to this
 > .\my-favourite-animal.html
 
 ![alt text](image.png)
+
+##  project 2
+task: create the file send on your class. the page should include:
+  A page of blog 
+  A what am learning it html
+  A latest post
+  Focus: css design,linking css,list
+
+  absolute path to this 
+  >.my-blog.html
+  >.my-blog.css
+  
