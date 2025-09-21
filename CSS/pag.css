@@ -1,0 +1,27 @@
+h1{
+    color: darkred;
+    text-align: center;
+    font-family:'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{
+    color: blue;
+    text-decoration: underline;
+    font: 2em sans-serif;
+    font-weight: bold;
+}
+p{
+    color: blueviolet;
+    font-weight: bold;
+}
+#container{
+    color: green;
+    font-weight: lighter;
+}
+#nigeria{
+    background-color:grey;
+    color: green;
+    line-height: 2.5;
+    border: 3px solid black;
+    margin: 0px;
+    padding-inline: 20px;
+}
