@@ -84,6 +84,12 @@ h2 {
   font-family: "Segoe UI";
   word-spacing: 10%;
 }
+h3 {
+  font-size: 1.5rem;
+  text-align: start;
+  font-size: 30px;
+}
+
 footer {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   margin-top: -2.5%;
